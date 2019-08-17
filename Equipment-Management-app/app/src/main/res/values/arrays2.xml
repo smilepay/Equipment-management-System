@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citys">
+        <item >모니터</item>
+        <item >노트북</item>
+        <item >실습실 컴퓨터</item>
+        <item >PC 테이블</item>
+        <item >회의용 의자</item>
+        <item >LED 모니터</item>
+        <item >컴퓨터</item>
+        <item >노트북 컴퓨터</item>
+        <item >서버</item>
+        <item >프린터 과급 관리 프로그램</item>
+    </string-array>
+</resources>

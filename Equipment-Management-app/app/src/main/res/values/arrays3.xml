@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="citys2">
+        <item >사용부서명</item>
+        <item >사용부서코드</item>
+        <item >책임자명</item>
+        <item >위치 내역</item>
+        <item >변동사항 기록</item>
+    </string-array>
+</resources>

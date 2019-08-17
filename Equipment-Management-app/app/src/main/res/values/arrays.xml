@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="city">
+        <item >노트북</item>
+        <item >스마트폰</item>
+        <item >설치 CD</item>
+        <item >테블릿</item>
+    </string-array>
+</resources>
