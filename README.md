@@ -9,3 +9,4 @@ MYSQL / Android Studio / php / REST API / Apache Web Server / HTML5 / JAVASCRIPT
 ![image](https://user-images.githubusercontent.com/54186647/63215436-4c716880-c161-11e9-961f-c08b52b4476d.png)
 
 # 시연 영상
+[![Video Label](http://img.youtube.com/vi/loxlIduxg_o/0.jpg)](https://www.youtube.com/watch?v=loxlIduxg_o&feature=youtu.be)
